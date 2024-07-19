@@ -1,0 +1,341 @@
+.one {
+    margin-left: 60px;
+    margin-top: -65px;
+    height: 235px;
+   
+}
+@media(max-width=400px){
+   .one{
+    margin-left: 0px;
+    height:100px;width:80px;
+   }
+}
+
+.orange {
+    margin-left: 600px;
+    margin-top: -125px;
+    color: rgb(240, 100, 13);
+}
+
+.whatsapp {
+    margin-left: 1020px;
+    margin-top: -90px;
+}
+
+#blue {
+    background-color: rgb(48, 120, 227);
+    width: 100.6%;
+    margin-left: -10px;
+    margin-top: 20px;
+}
+
+#color {
+    background-color: rgb(91, 91, 237);
+}
+
+#fun {
+    font-size: 15px;
+    margin-left: 200px;
+}
+@media(max-width=400px){
+    #fun{
+     margin-left: 30px;
+    
+    }
+ }
+
+
+.number {
+    margin-left: 1200px;
+    margin-top: -80px;
+}
+
+#new {
+    margin-left: 70px;
+    font-size: 13px;
+    color: rgb(219, 161, 34);
+}
+
+#my {
+    font-size: 13px;
+    color: rgb(208, 164, 34);
+}
+
+#travel {
+    width: 99.9%;
+}
+
+#serch {
+    margin-left: 620px;
+    margin-top: -110px;
+    width: 400px;
+}
+@media(max-width=400px){
+    #serch{
+     margin-left: 0px;
+     height:100px;width:20 0px;
+    }
+ }
+ 
+
+#button {
+    background-color: orangered;
+    color: white;
+}
+@media(max-width=400px){
+   #button {
+     margin-left: 0px;
+     
+    }
+ }
+
+.p {
+    margin-left: 670px;
+    font-size: 25px;
+    font-style: normal;
+    color: white;
+    margin-top: -75px;
+    box-shadow: 20px 30px 20px 20px;
+}
+
+#today {
+    margin-top: 200px;
+    margin-left: 120px;
+}
+
+.card{margin-left: -10px;}
+#two {
+    margin-top: 300px;
+}
+
+#blue1 {
+    color: blue;
+}
+
+#blue2 {
+    color: blue;
+}
+
+#blue3 {
+    color: blue;
+}
+
+#left {
+    margin-left: 140px;
+    background-color: rgb(229, 113, 30);
+    color: white;
+}
+
+#liteblu {
+    margin-top: 60px;
+    margin-left: 15px;
+    background-color: rgb(13, 162, 236);
+    height: 50px;
+    width: 95%;
+}
+
+#content {
+    margin-left: 150px;
+    color: white;
+}
+
+#holiday {
+    margin-left: 400px;
+    margin-top: -640px;
+}
+
+#holiday2 {
+    margin-left: 800px;
+    margin-top: -636px;
+}
+
+#left2 {
+    background-color: rgb(238, 87, 32);
+    color: white;
+    margin-left: 90px;
+}
+
+#hrline {
+    margin-top: 50px;
+    color: rgb(0, 0, 0);
+}
+
+#left3 {
+    background-color: orangered;
+    font-size: 15px;
+}
+
+#trekk {
+    margin-left: 400px;
+    margin-top: -635px;
+}
+
+#motor {
+    margin-left: 800px;
+    margin-top: -660px;
+}
+
+#hr2 {
+    margin-top: 280px;
+}
+
+#desi {
+    margin-top: 20px;
+    font-size: 30px;
+}
+
+#guid {
+    margin-top: 20px;
+    font-size: 30px;
+}
+
+#gray {
+    background-color: rgb(190, 185, 185);
+    display: flex;
+}
+
+#ass {
+    margin-left: 600px;
+}
+
+#ref {
+    margin-left: -400;
+}
+
+#button1 {
+    height: 50px;
+    width: 50px;
+    border-radius: 30px;
+    font-size: 25px;
+    margin-left: 1260px;
+    color: white;
+    background-color: orangered;
+}
+
+#button2 {
+    height: 50px;
+    width: 50px;
+    border-radius: 30px;
+    font-size: 25px;
+    color: white;
+    background-color: orangered;
+    margin-top: -50px;
+    position: absolute;
+}
+
+#gray1 {
+    background-color: rgb(168, 164, 164);
+    height: 200px;
+}
+
+#colorblu {
+    color: blue;
+    margin-left: 110px;
+}
+
+#term {
+    margin-left: 130px;
+    margin-top: 50px;
+}
+
+#privacy {
+    margin-left: 300px;
+    margin-top: -150px;
+}
+
+#user {
+    margin-left: 440px;
+    margin-top: -150px;
+}
+
+#price {
+    margin-left: 600px;
+    margin-top: -180px;
+}
+
+#policy {
+    margin-left: 730px;
+    margin-top: -190px;
+}
+
+#refund {
+    margin-left: 870px;
+    margin-top: -190px;
+}
+
+#ass {
+    margin-left: 990px;
+    margin-top: -190px;
+}
+
+#colorblu2 {
+    margin-left: 290px;
+    margin-top: -70px;
+    color: blue
+}
+
+#colorblu3 {
+    margin-left: 440px;
+    margin-top: -70px;
+    color: blue
+}
+
+#colorblu4 {
+    margin-left: 600px;
+    margin-top: -70px;
+    color: blue
+}
+
+#colorblu5 {
+    margin-left: 700px;
+    margin-top: -70px;
+    color: blue
+}
+
+#colorblu6 {
+    margin-left: 860px;
+    margin-top: -70px;
+    color: blue
+}
+
+#colorblu7 {
+    margin-left: 970px;
+    margin-top: -80px;
+    color: blue
+}
+
+#divblu {
+    background-color: rgb(8, 94, 173);
+}
+
+#listno {
+    list-style: none;
+    color: white;
+}
+
+#listno2 {
+    list-style: none;
+    color: white;
+}
+
+#list3 {
+    color: white;
+}
+
+#list4 {
+    color: white;
+}
+
+#leftt1 {
+    margin-left: 90px;
+}
+
+#leftt2 {
+    margin-left: 430px;
+    margin-top: -400px;
+}
+
+#leftt3 {
+    margin-left: 680px;
+    margin-top: -400px;
+}
